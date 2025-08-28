@@ -1,5 +1,10 @@
 # 🔠 Unscramble Word Game
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
+## 📖 Overview
 A fun and interactive **single-player word unscrambler game** built with **Kotlin** and **Jetpack Compose**.  
 The player is presented with a scrambled word and must rearrange the letters to form the correct word.  
 The app includes scoring, word skipping, and a total of **10 rounds per game**, following modern Android architecture best practices.
@@ -63,7 +68,7 @@ app/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/Unscramble-Word-App.git
+   git clone https://github.com/paulIndit25/Unscrambled-Word-Game-App.git
    
 2. Open in Android Studio.
 

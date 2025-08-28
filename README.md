@@ -19,7 +19,7 @@ The app includes scoring, word skipping, and a total of **10 rounds per game**, 
 - 📊 **Word Count Tracker** – Displays current round (1/10 to 10/10).
 - 🎨 **Material Design UI** – Built with Jetpack Compose and theming.
 - 📱 **Dialog Support** – Displays game results (score + replay option).
-- 🧩 **State Management** – Uses `remember` and `mutableState` APIs.
+- 🧩 **State Management** – Uses `StateFlow` and `mutableState` APIs.
 - 🏗 **MVVM Architecture** – Clean separation of UI, data, and logic.
 - ✅ **Best Practices** – Follows modern Android development principles.
 

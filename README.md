@@ -42,13 +42,12 @@ Below are some screenshots of the app in action:
 
 | Home Screen | Gameplay 1 | Gameplay 2 | Gameplay 3 | Gameplay 4 |
 |-------------|------------|------------|------------|------------|
-| ![Home](img/home.png) | ![Gameplay1](img/game1.png) | ![Gameplay2](img/game2.png) | ![Gameplay3](img/game3.png) | ![Gameplay4](img/game4.png) |
+| ![Home](1.jpg) | ![Gameplay1](2.jpg) | ![Gameplay2](3.jpg) | ![Gameplay3](4.jpg) | ![Gameplay4](5.jpg) |
 
 | Gameplay 5 | Gameplay 6 | Gameplay 7 | Gameplay 8 | Final Score |
 |------------|------------|------------|------------|-------------|
-| ![Gameplay5](img/game5.png) | ![Gameplay6](img/game6.png) | ![Gameplay7](img/game7.png) | ![Gameplay8](img/game8.png) | ![FinalScore](img/final.png) |
+| ![Gameplay5](6.jpg) | ![Gameplay6](7.jpg) | ![Gameplay7](8.jpg) | ![Gameplay8](9.jpg) | ![FinalScore](10.jpg) |
 
-> Replace the placeholder image paths (`img/game1.png`, etc.) with your actual screenshots.
 
 ---
 

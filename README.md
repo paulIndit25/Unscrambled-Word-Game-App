@@ -41,7 +41,7 @@ The app includes scoring, word skipping, and a total of **10 rounds per game**, 
 Below are some screenshots of the app in action:
 
 
-| Home Screen | Gameplay 1 | Gameplay 2 | Gameplay 3 | Gameplay 4 |
+| Home Screen | Gameplay 1 | Gameplay 2 | Final Score | Splash Screen |
 |-------------|------------|------------|------------|------------|
 | ![Home](1.jpg) | ![Gameplay1](2.jpg) | ![Gameplay2](3.jpg) | ![Gameplay3](4.jpg) | ![Gameplay4](5.jpg) |
 
